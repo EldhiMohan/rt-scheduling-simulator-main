@@ -25,4 +25,4 @@ A real-time scheduling simulator implementing:
 Open index.html in browser
 
 ## 🎓 Author
-Nithish
+Mohan 
